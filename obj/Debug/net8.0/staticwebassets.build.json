@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rZ+lqEpS7mtL0HLM9Gv09seCyY4Od5962CjRFLC4eas=",
+  "Source": "IASMSWebApi",
+  "BasePath": "_content/IASMSWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
